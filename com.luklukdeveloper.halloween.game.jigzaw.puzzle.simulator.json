@@ -1,0 +1,116 @@
+{
+"Ads":
+  [
+    {
+      "status_redirect":"",
+      "link_redirect":"",
+      "admob_inter":"",
+      "admob_banner":"",
+      "admob_open_ads":"",
+      "select_ads":"ADMOB",
+      "interval":"3",
+      "unityID":"",
+      "unity_banner":"",
+      "unity_inter":"",
+      "startappid":""   ,
+      "kidoz_pub_id":"",
+      "kidoz_token":""
+    }
+  ],
+ 
+  "Data":
+  [
+    {
+      "title":"Halloween Puzzle",
+      "image":"file:///android_asset/image/halloweenjigsawpuzlle1.png"
+    },
+    {
+      "title": "Halloween Puzzle",
+      "image": "file:///android_asset/image/halloweenjigsawpuzlle2.png"
+    },
+    {
+      "title":"Halloween Puzzle",
+      "image": "file:///android_asset/image/halloweenjigsawpuzlle3.png"
+    },
+    {
+      "title":"Halloween Puzzle",
+      "image":"file:///android_asset/image/halloweenjigsawpuzlle4.png"
+    },
+    {
+      "title":"Halloween Puzzle",
+      "image":"file:///android_asset/image/halloweenjigsawpuzlle5.png"
+    },
+    {
+      "title":"Halloween Puzzle",
+      "image":"file:///android_asset/image/halloweenjigsawpuzlle6.png"
+    },
+    {
+      "title": "Halloween Puzzle",
+      "image": "file:///android_asset/image/halloweenjigsawpuzlle7.png"
+    },
+    {
+      "title":"Halloween Puzzle",
+      "image": "file:///android_asset/image/halloweenjigsawpuzlle8.png"
+    },
+    {
+      "title":"Halloween Puzzle",
+      "image":"file:///android_asset/image/halloweenjigsawpuzlle9.png"
+    },
+    {
+      "title":"Halloween Puzzle",
+      "image":"file:///android_asset/image/halloweenjigsawpuzlle10.png"
+    },
+    {
+      "title":"Halloween Puzzle",
+      "image":"file:///android_asset/image/halloweenjigsawpuzlle11.png"
+    },
+    {
+      "title": "Halloween Puzzle",
+      "image": "file:///android_asset/image/halloweenjigsawpuzlle12.png"
+    },
+    {
+      "title":"Halloween Puzzle",
+      "image": "file:///android_asset/image/halloweenjigsawpuzlle13.png"
+    },
+    {
+      "title":"Halloween Puzzle",
+      "image":"file:///android_asset/image/halloweenjigsawpuzlle14.png"
+    },
+    {
+      "title":"Halloween Puzzle",
+      "image":"file:///android_asset/image/halloweenjigsawpuzlle15.png"
+    },
+    {
+      "title":"Halloween Puzzle",
+      "image":"file:///android_asset/image/halloweenjigsawpuzlle16.png"
+    },
+    {
+      "title": "Halloween Puzzle",
+      "image": "file:///android_asset/image/halloweenjigsawpuzlle17.png"
+    },
+    {
+      "title":"Halloween Puzzle",
+      "image": "file:///android_asset/image/halloweenjigsawpuzlle18.png"
+    },
+    {
+      "title":"Halloween Puzzle",
+      "image":"file:///android_asset/image/halloweenjigsawpuzlle19.png"
+    },
+    {
+      "title":"Halloween Puzzle",
+      "image":"file:///android_asset/image/halloweenjigsawpuzlle20.png"
+    },
+    {
+      "title":"Halloween Puzzle",
+      "image":"file:///android_asset/image/halloweenjigsawpuzlle21.png"
+    },
+    {
+      "title": "Halloween Puzzle",
+      "image": "file:///android_asset/image/halloweenjigsawpuzlle22.png"
+    },
+    {
+      "title":"Halloween Puzzle",
+      "image": "file:///android_asset/image/halloweenjigsawpuzlle23.png"
+    }
+  ]
+}
