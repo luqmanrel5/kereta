@@ -1,0 +1,180 @@
+{
+"Ads":
+  [
+    {
+      "status_redirect":"",
+      "link_redirect":"",
+      "admob_inter":"",
+      "admob_banner":"",
+      "admob_open_ads":"",
+      "select_ads":"ADMOB",
+      "interval":"3",
+      "unityID":"",
+      "unity_banner":"",
+      "unity_inter":"",
+      "startappid":""   ,
+      "kidoz_pub_id":"",
+      "kidoz_token":""
+    }
+  ],
+ 
+  "Data":
+  [
+    {
+      "title":"Scary Ghost",
+      "image":"file:///android_asset/image/scaryghostkann1.png"
+    },
+    {
+      "title": "Scary Ghost",
+      "image": "file:///android_asset/image/scaryghostkann2.png"
+    },
+    {
+      "title":"Scary Ghost",
+      "image": "file:///android_asset/image/scaryghostkann3.png"
+    },
+    {
+      "title":"Scary Ghost",
+      "image":"file:///android_asset/image/scaryghostkann4.png"
+    },
+    {
+      "title":"Scary Ghost",
+      "image":"file:///android_asset/image/scaryghostkann5.png"
+    },
+    {
+      "title":"Scary Ghost",
+      "image":"file:///android_asset/image/scaryghostkann6.png"
+    },
+    {
+      "title": "Scary Ghost",
+      "image": "file:///android_asset/image/scaryghostkann7.png"
+    },
+    {
+      "title":"Scary Ghost",
+      "image": "file:///android_asset/image/scaryghostkann8.png"
+    },
+    {
+      "title":"Scary Ghost",
+      "image":"file:///android_asset/image/scaryghostkann9.png"
+    },
+    {
+      "title":"Scary Ghost",
+      "image":"file:///android_asset/image/scaryghostkann10.png"
+    },
+    {
+      "title":"Scary Ghost",
+      "image":"file:///android_asset/image/scaryghostkann11.png"
+    },
+    {
+      "title": "Scary Ghost",
+      "image": "file:///android_asset/image/scaryghostkann12.png"
+    },
+    {
+      "title":"Scary Ghost",
+      "image": "file:///android_asset/image/scaryghostkann13.png"
+    },
+    {
+      "title":"Scary Ghost",
+      "image":"file:///android_asset/image/scaryghostkann14.png"
+    },
+    {
+      "title":"Scary Ghost",
+      "image":"file:///android_asset/image/scaryghostkann15.png"
+    },
+    {
+      "title":"Scary Ghost",
+      "image":"file:///android_asset/image/scaryghostkann16.png"
+    },
+    {
+      "title": "Scary Ghost",
+      "image": "file:///android_asset/image/scaryghostkann17.png"
+    },
+    {
+      "title":"Scary Ghost",
+      "image": "file:///android_asset/image/scaryghostkann18.png"
+    },
+    {
+      "title":"Scary Ghost",
+      "image":"file:///android_asset/image/scaryghostkann19.png"
+    },
+    {
+      "title":"Scary Ghost",
+      "image":"file:///android_asset/image/scaryghostkann20.png"
+    },
+    {
+      "title":"Scary Ghost",
+      "image":"file:///android_asset/image/scaryghostkann21.png"
+    },
+    {
+      "title": "Scary Ghost",
+      "image": "file:///android_asset/image/scaryghostkann22.png"
+    },
+    {
+      "title":"Scary Ghost",
+      "image": "file:///android_asset/image/scaryghostkann23.png"
+    },
+    {
+      "title":"Scary Ghost",
+      "image":"file:///android_asset/image/scaryghostkann24.png"
+    },
+    {
+      "title":"Scary Ghost",
+      "image":"file:///android_asset/image/scaryghostkann25.png"
+    },
+    {
+      "title":"Scary Ghost",
+      "image":"file:///android_asset/image/scaryghostkann26.png"
+    },
+    {
+      "title": "Scary Ghost",
+      "image": "file:///android_asset/image/scaryghostkann27.png"
+    },
+    {
+      "title":"Scary Ghost",
+      "image": "file:///android_asset/image/scaryghostkann28.png"
+    },
+    {
+      "title":"Scary Ghost",
+      "image":"file:///android_asset/image/scaryghostkann29.png"
+    },
+    {
+      "title":"Scary Ghost",
+      "image":"file:///android_asset/image/scaryghostkann30.png"
+    },
+	    {
+      "title":"Scary Ghost",
+      "image":"file:///android_asset/image/scaryghostkann31.png"
+    },
+    {
+      "title": "Scary Ghost",
+      "image": "file:///android_asset/image/scaryghostkann32.png"
+    },
+    {
+      "title":"Scary Ghost",
+      "image": "file:///android_asset/image/scaryghostkann33.png"
+    },
+    {
+      "title":"Scary Ghost",
+      "image":"file:///android_asset/image/scaryghostkann34.png"
+    },
+    {
+      "title":"Scary Ghost",
+      "image":"file:///android_asset/image/scaryghostkann35.png"
+    },
+    {
+      "title":"Scary Ghost",
+      "image":"file:///android_asset/image/scaryghostkann36.png"
+    },
+    {
+      "title": "Scary Ghost",
+      "image": "file:///android_asset/image/scaryghostkann37.png"
+    },
+    {
+      "title":"Scary Ghost",
+      "image": "file:///android_asset/image/scaryghostkann38.png"
+    },
+    {
+      "title":"Scary Ghost",
+      "image": "file:///android_asset/image/scaryghostkann39.png"
+    }
+  ]
+}
