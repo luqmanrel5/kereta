@@ -3,16 +3,16 @@
       {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"",
-      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
-      "native_for_admob":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_rewards":"",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
       "backup_ads_rewards":"",
       "survey_api_key":"",
       "interval_intertitial": 5,
-      "initialize_sdk":"",
+      "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -27,79 +27,86 @@
   "More":
   [
     {
-      "id": 1,
-      "title": "Pocong Puzzle",
-      "image": "file:///android_asset/image/pocong.png",
-      "link": "https://play.google.com/store/apps/details?id=com.luklukdeveloper.pocong.game.jigzaw.puzzle.simulator"
+      "id":1,
+      "title":"Ludo King",
+      "image":"file:///android_asset/ludo.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
     },
     {
-      "id": 2,
-      "title": "kuntilanak Puzzle",
-      "image": "file:///android_asset/image/kujntilanak.png",
-      "link": "https://play.google.com/store/apps/details?id=com.luklukdeveloper.kuntilanak.game.jigzaw.puzzle.simulator"
+      "id":2,
+      "title":"Homescapes",
+      "image":"file:///android_asset/home.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
     },
     {
-      "id": 3,
-      "title": "Scary Ghost Puzlle",
-      "image": "file:///android_asset/image/ScaryGhost.png",
-      "link": "https://play.google.com/store/apps/details?id=com.luklukdeveloper.scary_ghost.game.jigzaw.puzzle.simulator"
+      "id":3,
+      "title":"Minecraft",
+      "image":"file:///android_asset/mine.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
     },
     {
-      "id": 4,
-      "title": "Halleoween Puzzlle",
-      "image": "file:///android_asset/image/halloween.png",
-      "link": "https://play.google.com/store/apps/details?id=com.luklukdeveloper.halloween.game.jigzaw.puzzle.simulator"
+      "id":4,
+      "title":"Sonic the Hedgehog™ Classic",
+      "image":"file:///android_asset/sonic.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.sega.sonic1px"
+    },
+    {
+      "id":5,
+      "title":"War Machines: Best Free Online War & Military Game",
+      "image":"file:///android_asset/machine.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fungames.battletanksbeta"
+    },
+    {
+      "id":6,
+      "title":"Tank vs Helicopter. Free War Game: Massive Warfare",
+      "image":"file:///android_asset/heli.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.tinybytes.massivewarfare2"
     }
   ],
-  "Item": [
+  "Item":
+  [
     {
-      "id": 0,
-      "name": "Cewek Imut",
-      "image_url": "file:///android_asset/image/cewekimut1.png",
-      "video_url": "suacewekimuy1",
-      "voice_url": "suaracewekikut.mp3"
+      "id":1,
+      "name":"Ludo King",
+      "image_url":"file:///android_asset/mine.webp",
+      "video_url":"footbal",
+      "voice_url":"dosa_membawa_keburukan.mp3"
     },
     {
-      "id": 1,
-      "name": "Cewek Imut",
-      "image_url": "file:///android_asset/image/cewekimut2.png",
-      "video_url": "suacewekimuy2",
-      "voice_url": "suaracewekikut.mp3"
+      "id":2,
+      "name":"Homescapes",
+      "image_url":"https://aliendro.id/uploads/demo/fakecall/home.webp",
+      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower.mov",
+      "voice_url":"https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
     },
     {
-      "id": 2,
-      "name": "Cewek Imut",
-      "image_url": "file:///android_asset/image/cewekimut3.png",
-      "video_url": "suacewekimuy3",
-      "voice_url": "suaracewekikut.mp3"
+      "id":3,
+      "name":"Minecraft",
+      "image_url":"https://aliendro.id/uploads/demo/fakecall/ludo.webp",
+      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower3.mov",
+      "voice_url":"https://aliendro.id/uploads/demo/fakecall/malas_ibadah.mp3"
     },
     {
-      "id": 3,
-      "name": "Cewek Imut",
-      "image_url": "file:///android_asset/image/cewekimut4.png",
-      "video_url": "suacewekimuy4",
-      "voice_url": "suaracewekikut.mp3"
+      "id":4,
+      "name":"Sonic the Hedgehog™ Classic",
+      "image_url":"file:///android_asset/sonic.webp",
+      "video_url":"footbal",
+      "voice_url":"https://aliendro.id/uploads/demo/fakecall/malas_ibadah.mp3"
     },
     {
-      "id": 4,
-      "name": "Cewek Imut",
-      "image_url": "file:///android_asset/image/cewekimut5.png",
-      "video_url": "suacewekimuy5",
-      "voice_url": "suaracewekikut.mp3"
+      "id":5,
+      "name":"War Machines: Best Free Online War & Military Game",
+      "image_url":"file:///android_asset/machine.webp",
+      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower.mov",
+      "voice_url":"https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
     },
     {
-      "id": 5,
-      "name": "Cewek Imut",
-      "image_url": "file:///android_asset/image/cewekimut6.png",
-      "video_url": "suacewekimuy6",
-      "voice_url": "suaracewekikut.mp3"
-    },
-    {
-      "id": 6,
-      "name": "Cewek Imut",
-      "image_url": "file:///android_asset/image/cewekimut7.png",
-      "video_url": "suacewekimuy7",
-      "voice_url": "suaracewekikut.mp3"
+      "id":6,
+      "name":"Tank vs Helicopter. Free War Game: Massive Warfare",
+      "image_url":"https://aliendro.id/uploads/demo/fakecall/heli.webp",
+      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower3.mov",
+      "voice_url":"dosa_membawa_keburukan.mp3"
     }
   ]
+
 }
