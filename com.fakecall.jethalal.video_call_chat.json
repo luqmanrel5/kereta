@@ -1,0 +1,110 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-7113257690559728/9549481870",
+      "main_ads_intertitial":"ca-app-pub-7113257690559728/6858905208",
+      "main_ads_rewards":"ca-app-pub-7113257690559728/8344211419",
+      "native_for_admob":"ca-app-pub-7113257690559728/6101191458",
+      "backup_ads_banner":"08254b91970cdd7e",
+      "backup_ads_intertitial":"c37663c1efcf2e49",
+      "backup_ads_rewards":"fe5c11927c885448",
+      "survey_api_key":"vt5yEOQv_QxMIdV-9M5v7aEt9_n5S4--GxoLctg5SDaDXho9TPVfe7ni0eWLIgSyG5u8IFxsrG9P4NU0XrfNwG",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"_9sfAOSOFI8OQEpTV7M_UlmV44dUvcasHLJ1Hn1_MMLqT9KdJygswR7TTRvtHUTGQSkVO-T6E_WhqwhEcXnrCT",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "Pocong Puzzle",
+      "image": "file:///android_asset/image/pocong.png",
+      "link": "https://play.google.com/store/apps/details?id=com.luklukdeveloper.pocong.game.jigzaw.puzzle.simulator"
+    },
+    {
+      "id": 2,
+      "title": "kuntilanak Puzzle",
+      "image": "file:///android_asset/image/kujntilanak.png",
+      "link": "https://play.google.com/store/apps/details?id=com.luklukdeveloper.kuntilanak.game.jigzaw.puzzle.simulator"
+    },
+    {
+      "id": 3,
+      "title": "Scary Ghost Puzlle",
+      "image": "file:///android_asset/image/ScaryGhost.png",
+      "link": "https://play.google.com/store/apps/details?id=com.luklukdeveloper.scary_ghost.game.jigzaw.puzzle.simulator"
+    },
+    {
+      "id": 4,
+      "title": "Halleoween Puzzlle",
+      "image": "file:///android_asset/image/halloween.png",
+      "link": "https://play.google.com/store/apps/details?id=com.luklukdeveloper.halloween.game.jigzaw.puzzle.simulator"
+    },
+    {
+      "id": 5,
+      "title": "Cewek Cantik",
+      "image": "file:///android_asset/image/cewekimut.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.gilfriends.fakecall.cewek.imut.cantik"
+    },
+    {
+      "id": 6,
+      "title": "Janda Call",
+      "image": "file:///android_asset/image/Jandacantik.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.gilfriends.fakecall.janda.cantik"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Jethalal",
+      "image_url": "file:///android_asset/image/jethalalgam1.png",
+      "video_url": "jethalalvid1",
+      "voice_url": "jethalalsu1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Jethalal",
+      "image_url": "file:///android_asset/image/jethalalgam2.png",
+      "video_url": "jethalalvid2",
+      "voice_url": "jethalalsu2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Jethalal",
+      "image_url": "file:///android_asset/image/jethalalgam3.png",
+      "video_url": "jethalalvid3",
+      "voice_url": "jethalalsu3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Jethalal",
+      "image_url": "file:///android_asset/image/jethalalgam4.png",
+      "video_url": "jethalalvid1",
+      "voice_url": "jethalalsu1.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Jethalal",
+      "image_url": "file:///android_asset/image/jethalalgam5.png",
+      "video_url": "jethalalvid2",
+      "voice_url": "jethalalsu2.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Jethalal",
+      "image_url": "file:///android_asset/image/jethalalgam6.png",
+      "video_url": "jethalalvid3",
+      "voice_url": "jethalalsu3.mp3"
+    }
+  ]
+}
