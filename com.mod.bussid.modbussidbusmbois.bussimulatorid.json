@@ -1,0 +1,142 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_native_ads_Admob_or_applovin":"ca-app-pub-3940256099942544/2247696110",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "backup_native_ads_Admob_or_applovin":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "survey_api_key":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "DATA":
+  [
+    {
+      "id": 1,
+      "category":"Bis",
+      "title":"Avante D2 SDD",
+      "image":"file:///android_asset/01.png",
+      "link_mods":"https://archive.org/download/avante-d-2-sdd-by-budesign-tm/Avante%20D2%20SDD%20by%20Budesign%20TM.bussidmod",
+      "link_livery":"https://archive.org/download/livery-harapan-jaya-avante-d-2-by-xpk/Livery%20Harapan%20Jaya%20Avante%20D2%20by%20XPK.png"
+    },
+    {
+      "id": 2,
+      "category":"Bis",
+      "title":"Bus Jetliner SHD Hino RK8",
+      "image":"file:///android_asset/02.png",
+      "link_mods":"https://archive.org/download/mod-bussid-bus-jetliner-shd/MOD%20BUSSID%20Bus%20Jetliner%20SHD%20Hino%20RK8%20by%20Sahrul%20Ramdani.bussidmod",
+      "link_livery":"https://archive.org/download/mod-bussid-bus-jetliner-shd-hino-rk-8-by-sahrul-ramdani/Livery%20Bintang%20Utara%20Jetliner%20JT%20WSP%20by%20Blahbloh.png"
+    },
+    {
+      "id": 3,
+      "category":"Bis",
+      "title":"Bus Marcopolo Paradiso",
+      "image":"file:///android_asset/03.png",
+      "link_mods":"https://archive.org/download/14_20220805/03.bussidmod",
+      "link_livery":"https://archive.org/download/005_20220806/003.png"
+    },
+    {
+      "id": 4,
+      "category":"Bis",
+      "title":"Scania Touring",
+      "image":"file:///android_asset/04.png",
+      "link_mods":"https://archive.org/download/14_20220805/04.bussidmod",
+      "link_livery":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.png"
+    } ,
+    {
+      "id": 5,
+      "category":"Bis",
+      "title":"SAN SR2 Panorama",
+      "image":"file:///android_asset/05.png",
+      "link_mods":"https://archive.org/download/14_20220805/05.bussidmod",
+      "link_livery":"https://archive.org/download/005_20220806/005.png"
+    },
+    {
+      "id": 6,
+      "category":"Bis",
+      "title":"Bus Transjakarta",
+      "image":"file:///android_asset/06.png",
+      "link_mods":"https://archive.org/download/14_20220805/06.bussidmod",
+      "link_livery":"https://archive.org/download/005_20220806/006.png"
+    } ,
+    {
+      "id": 7,
+      "category":"Bis",
+      "title":"BUSSID JB3 Dream Coach",
+      "image":"file:///android_asset/07.png",
+      "link_mods":"https://archive.org/download/14_20220805/07.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 8,
+      "category":"Bis",
+      "title":"BUSSID SR2 XHD Prime Scania K410iB Varian Sumatra",
+      "image":"file:///android_asset/08.png",
+      "link_mods":"https://archive.org/download/14_20220805/08.bussidmod",
+      "link_livery":"https://archive.org/download/005_20220806/008.png"
+    },
+    {
+      "id": 9,
+      "category":"Bis",
+      "title":"JB3+ O500RS",
+      "image":"file:///android_asset/09.png",
+      "link_mods":"https://archive.org/download/14_20220805/09.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 10,
+      "category":"Bis",
+      "title":"JB3+ SHD Mercy O500RS",
+      "image":"file:///android_asset/10.png",
+      "link_mods":"https://archive.org/download/14_20220805/10.bussidmod",
+      "link_livery":"null"
+    } ,
+    {
+      "id": 11,
+      "category":"Bis",
+      "title":"JB3+ SHD Volvo",
+      "image":"file:///android_asset/11.png",
+      "link_mods":"https://archive.org/download/14_20220805/11.bussidmod",
+      "link_livery":"https://archive.org/download/005_20220806/011.png"
+    },
+    {
+      "id": 12,
+      "category":"Bis",
+      "title":"SR2 XHD PRIME S SERIES",
+      "image":"file:///android_asset/12.png",
+      "link_mods":"https://archive.org/download/14_20220805/12.bussidmod",
+      "link_livery":"https://archive.org/download/005_20220806/012.png"
+    },
+    {
+      "id": 13,
+      "category":"Bis",
+      "title":"SR2 XHD Prime Scania K410iB",
+      "image":"file:///android_asset/13.png",
+      "link_mods":"https://archive.org/download/14_20220805/13.bussidmod",
+      "link_livery":"https://archive.org/download/005_20220806/013.png"
+    },
+    {
+      "id": 14,
+      "category":"Bis",
+      "title":"Hino RK8",
+      "image":"file:///android_asset/14.png",
+      "link_mods":"https://archive.org/download/14_20220805/14.bussidmod",
+      "link_livery":"null"
+    }
+  ]
+}
